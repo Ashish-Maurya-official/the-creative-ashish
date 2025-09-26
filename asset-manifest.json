@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ashish-Maurya-official/the-creative-ashish/static/css/main.d56ea716.css",
+    "main.js": "/Ashish-Maurya-official/the-creative-ashish/static/js/main.488756f9.js",
+    "index.html": "/Ashish-Maurya-official/the-creative-ashish/index.html",
+    "main.d56ea716.css.map": "/Ashish-Maurya-official/the-creative-ashish/static/css/main.d56ea716.css.map",
+    "main.488756f9.js.map": "/Ashish-Maurya-official/the-creative-ashish/static/js/main.488756f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56ea716.css",
+    "static/js/main.488756f9.js"
+  ]
+}
